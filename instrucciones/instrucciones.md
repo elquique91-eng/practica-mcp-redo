@@ -96,7 +96,7 @@ Este documento recopila de manera cronológica todas las instrucciones proporcio
 ## 10. Ejercicio 4 - Migración de Datos a Supabase (MCP Filesystem + Supabase MCP)
 > continua con la primera idea
 
-> ya cree el proyecto,llamado proyecto 1, la contraseña es 111111aaaQQQQQQ1C
+> ya cree el proyecto,llamado proyecto 1
 
 ---
 
