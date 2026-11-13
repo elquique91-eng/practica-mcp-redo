@@ -1,8 +1,10 @@
-# Registro de Uso de Herramientas MCP Filesystem
+# practica-mcp
+
+## Registro de Uso de Herramientas MCP Filesystem
 
 En esta práctica se utilizaron exclusivamente las herramientas del servidor MCP `filesystem`.
 
-## Herramientas utilizadas y orden de ejecución:
+### Herramientas utilizadas y orden de ejecución:
 
 1. **`filesystem:list_directory`**
    - **Ruta:** `C:\Users\elqui\practica-mcp\datos`
